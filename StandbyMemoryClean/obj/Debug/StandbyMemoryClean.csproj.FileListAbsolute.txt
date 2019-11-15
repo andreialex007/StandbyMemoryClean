@@ -1,0 +1,10 @@
+c:\users\andrew\source\repos\StandbyMemoryClean\StandbyMemoryClean\bin\Debug\StandbyMemoryClean.exe.config
+c:\users\andrew\source\repos\StandbyMemoryClean\StandbyMemoryClean\bin\Debug\StandbyMemoryClean.exe
+c:\users\andrew\source\repos\StandbyMemoryClean\StandbyMemoryClean\bin\Debug\StandbyMemoryClean.pdb
+c:\users\andrew\source\repos\StandbyMemoryClean\StandbyMemoryClean\obj\Debug\StandbyMemoryClean.csprojAssemblyReference.cache
+c:\users\andrew\source\repos\StandbyMemoryClean\StandbyMemoryClean\obj\Debug\StandbyMemoryClean.Properties.Resources.resources
+c:\users\andrew\source\repos\StandbyMemoryClean\StandbyMemoryClean\obj\Debug\StandbyMemoryClean.csproj.GenerateResource.cache
+c:\users\andrew\source\repos\StandbyMemoryClean\StandbyMemoryClean\obj\Debug\StandbyMemoryClean.csproj.CoreCompileInputs.cache
+c:\users\andrew\source\repos\StandbyMemoryClean\StandbyMemoryClean\obj\Debug\StandbyMemoryClean.exe
+c:\users\andrew\source\repos\StandbyMemoryClean\StandbyMemoryClean\obj\Debug\StandbyMemoryClean.pdb
+c:\users\andrew\source\repos\StandbyMemoryClean\StandbyMemoryClean\obj\Debug\StandbyMemoryClean.MainForm.resources
